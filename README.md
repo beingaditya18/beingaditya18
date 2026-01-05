@@ -1,87 +1,108 @@
 <p align="center">
-  <img src="https://github.com/beingaditya18.png" width="130" alt="Aditya Mandloi" style="border-radius: 50%; border: 3px solid #7928CA;">
+  <img src="https://github.com/beingaditya18.png" width="120" alt="Aditya Mandloi Avatar" style="border-radius: 50%;">
 </p>
 
-<h1 align="center">Aditya Mandloi</h1>
-<h3 align="center">M.Tech AI & Data Science @ DAVV Indore • Indic AI Researcher • Deep Learning Specialist</h3>
+<h1 align="center">Hi, I'm Aditya Mandloi 👋</h1>
+<h3 align="center">M.Tech AI & Data Science • LLM Engineer | RAG Systems | Computer Vision | Indic AI</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adityamandloi99" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:adityamandloi10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/adityamandloi99" target="_blank">💼 LinkedIn</a> •
+  <a href="https://github.com/beingaditya18" target="_blank">🐙 GitHub</a> •
+  <a href="mailto:adityamandloi10@gmail.com" target="_blank">📧 Email</a>
 </p>
 
 ---
 
-### 🧠 Profile Summary
+### 🧠 About Me
 
-I am a Graduate Researcher focused on **Large Language Models (LLMs)** and **Computer Vision**. My work involves developing AI solutions that are culturally and contextually relevant, particularly through my engagement with **AI4Bharat** and specialized research in **Academic Integrity (EduGuard)**.
+I am an **AI & Data Science Researcher** focused on building **production-grade intelligent systems**. I specialize in bridging the gap between raw research and scalable applications, particularly in the fields of **RAG (Retrieval-Augmented Generation)** and **Computer Vision**.
 
-- 🔬 **Research Focus:** Indic NLP, Neural Network Optimization, and AI Ethics.
-- 🎓 **Academic:** M.Tech in Artificial Intelligence & Data Science.
-- 🛠️ **Current Activity:** Scaling **EduGuard** using advanced Transformer architectures.
+- 🎓 Pursuing **M.Tech in AI & Data Science** at DAVV Indore.
+- 🤖 Specialized in **Retrieval-Augmented Generation (RAG)** using LangChain and Vector Databases.
+- 🇮🇳 Contributor to **Indic AI** through certification and research with **AI4Bharat**.
+- 🛡️ Architected **EduGuard**, a multi-model system for academic integrity and security.
+- 📦 Experienced in deploying ML models using **FastAPI, Docker, and Linux VPS**.
+- 🧭 Deeply focused on **LLM Fine-tuning** and **Prompt Engineering** for specialized domains.
 
 ---
 
-### 📜 Certifications & Specializations
+### 🏆 Achievements & Certifications
 
 <p align="center">
-| Authority | Credentials | Status |
-| :--- | :--- | :---: |
-| **AI4Bharat** | Indic Language AI & Data Contribution | ✅ Certified |
-| **DeepLearning.AI** | Deep Learning Specialization (by Andrew Ng) | ✅ Specialization |
-| **NVIDIA** | Fundamentals of Deep Learning | ✅ Certified |
+  <strong>DeepLearning.AI Specialization</strong> (by Andrew Ng) 
+  <img src="https://img.shields.io/badge/Specialization-DeepLearning.AI-blue" alt="DL Specialization">
 </p>
-
-> *I specialize in building end-to-end AI pipelines, from raw Indic-data processing to deploying optimized models.*
+<p align="center">
+  <strong>AI4Bharat Certified</strong> - Indic Language AI Research & Data Contribution 
+  <img src="https://img.shields.io/badge/Certified-AI4Bharat-orange" alt="AI4Bharat">
+</p>
 
 ---
 
-### 🚀 Featured Research & Projects
+### 🚀 Featured AI Projects
 
-| Project | Core Focus | Stack | Demo |
+| Project | Description | Stack | Status |
 |----------|--------------|-------|------|
-| [**🛡️ EduGuard**](https://github.com/beingaditya18/eduguard) | AI for Academic Integrity & Safety | PyTorch • OpenCV • FastAPI | [View Repo](https://github.com/beingaditya18/eduguard) |
-| **🇮🇳 IndicTrans-FineTune** | Fine-tuning IndicTrans for specific dialects | AI4Bharat Tools • Python | *Research* |
-| **📉 Predictive Bio-Stats** | ML for healthcare data analysis | Scikit-Learn • XGBoost | *Private* |
+| [**EduGuard**](https://github.com/beingaditya18/eduguard) | AI-powered security & integrity system using Computer Vision and anomaly detection. | Python • TensorFlow • OpenCV • FastAPI | [View Repo](https://github.com/beingaditya18/eduguard) |
+| [**Indic-QA RAG**](#) | A RAG system designed for Indic languages leveraging AI4Bharat datasets and Vector DBs. | LangChain • FAISS • OpenAI • HuggingFace | *Research* |
+| **Neural Vision Hub** | Custom trained CNN models for real-time object classification and tracking. | PyTorch • TorchVision • Docker • Linux | *Private* |
+
+> *Deeply involved in research projects involving Large Language Models and their application in local Indian contexts.*
 
 ---
 
-### ⚙️ Specialized Tech Stack
+### ⚙️ Skills & Tools
+
+**AI & Machine Learning:** LLMs • RAG • LangChain • Vector DBs (FAISS/Pinecone) • Transformers  
+**Deep Learning:** PyTorch • TensorFlow • Keras • CNNs • RNNs • Computer Vision  
+**Data Science:** Scikit-learn • Pandas • NumPy • Data Visualization • Statistical Analysis  
+**Backend & DevOps:** FastAPI • Flask • SQL • Docker • Linux (Ubuntu) • GitHub Actions  
+**Languages:** Python • SQL • C++  
+
+---
+
+### 📈 GitHub Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=beingaditya18&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingaditya18&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
 
-### 📊 Impact & Activity
+### 🏗️ What I’m Working On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beingaditya18&show_icons=true&theme=dracula&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingaditya18&layout=compact&theme=dracula" height="180" />
-</p>
-
-
+- 🧠 **Indic-RAG Pipeline** — Optimizing retrieval for low-resource Indian languages.
+- 🛠️ **MLOps Workflows** — Implementing automated training pipelines with GitHub Actions.
+- 🐧 **Edge AI** — Deploying lightweight vision models on Linux-based edge devices.
+- 📚 **M.Tech Thesis** — Exploring the intersection of [Insert your Thesis Topic].
 
 ---
 
-### 🎯 2026 Vision
+### 🎯 Goals for 2025
 
-- 📝 **Publication:** Publish a research paper on Indic-NLP or Computer Vision.
-- 🏗️ **Architecture:** Master Multi-Agent AI systems for autonomous workflows.
-- 🌍 **Community:** Become a core contributor to open-source AI initiatives in India.
+- Publish a high-impact research paper on **Indic NLP** or **RAG Optimization**.
+- Contribute to core open-source repositories like **LangChain** or **HuggingFace**.
+- Complete a series of end-to-end **LLM production** case studies.
+
+---
+
+### 🚀 Goals for 2026
+
+- 🧠 Master **Agentic Workflows** — building autonomous AI agents for complex tasks.
+- ☁️ Scale AI deployments using **Kubernetes** and cloud-native GPU orchestration.
+- 🤝 Lead a research team or collaborate with global AI labs on **Ethical AI**.
+- 🧩 Launch an open-source tool for **AI Developers** in the Indian ecosystem.
+
+---
+
+### 📫 Let’s Connect
+
+📧 **adityamandloi10@gmail.com** 💼 [**LinkedIn**](https://www.linkedin.com/in/adityamandloi99)  
+🐙 [**GitHub**](https://github.com/beingaditya18)
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+  <i>“I build systems that perceive, reason, and solve.”</i>
 </p>
