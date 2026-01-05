@@ -30,7 +30,6 @@ I enjoy translating **research ideas into real-world systems**, combining strong
 -  Experience deploying models with **FastAPI, Docker, Linux VPS**  
 -  Actively exploring **LLM fine-tuning & prompt optimization**
 
----
 
 ## Achievements & Certifications
 
@@ -38,7 +37,7 @@ I enjoy translating **research ideas into real-world systems**, combining strong
 - **AI4Bharat Certification** — Indic Language AI & Research Contribution  
 - Active contributor to open-source ML & AI projects on GitHub  
 
----
+
 
 ## Featured Projects
 
@@ -83,19 +82,14 @@ Python · SQL · C++
 
 ## Current Focus
 
-- 🧠 **Indic-RAG Pipelines** — improving retrieval for low-resource languages  
-- 🛠️ **MLOps Workflows** — CI/CD automation for ML training & deployment  
-- 🐧 **Edge AI** — deploying lightweight vision models on Linux devices  
-- 📚 **M.Tech Thesis** — *Retrieval-Augmented Generation for Low-Resource Indic Languages*
+-  **Indic-RAG Pipelines** — improving retrieval for low-resource languages  
+-  **MLOps Workflows** — CI/CD automation for ML training & deployment  
+-  **Edge AI** — deploying lightweight vision models on Linux devices  
+-  **M.Tech Thesis** — *Retrieval-Augmented Generation for Low-Resource Indic Languages*
 
 ---
 
 ## Research & Career Goals
-
-### 2025
-- Publish research on **Indic NLP / RAG optimization**
-- Contribute to **LangChain** or **HuggingFace**
-- Build end-to-end **LLM production case studies**
 
 ### 2026
 - Design **agentic AI systems** for complex workflows  
