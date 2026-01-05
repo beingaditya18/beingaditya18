@@ -1,108 +1,118 @@
 <p align="center">
-  <img src="https://github.com/beingaditya18.png" width="120" alt="Aditya Mandloi Avatar" style="border-radius: 50%;">
+  <img src="https://github.com/beingaditya18.png" width="130" alt="Aditya Mandloi" style="border-radius: 50%;" />
 </p>
 
-<h1 align="center">Hi, I'm Aditya Mandloi 👋</h1>
-<h3 align="center">M.Tech AI & Data Science • LLM Engineer | RAG Systems | Computer Vision | Indic AI</h3>
+<h1 align="center">Aditya Mandloi</h1>
+
+<h3 align="center">
+M.Tech AI & Data Science · LLM Engineer · RAG Systems · Computer Vision · Indic AI
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adityamandloi99" target="_blank">💼 LinkedIn</a> •
-  <a href="https://github.com/beingaditya18" target="_blank">🐙 GitHub</a> •
-  <a href="mailto:adityamandloi10@gmail.com" target="_blank">📧 Email</a>
-</p>
-
----
-
-### 🧠 About Me
-
-I am an **AI & Data Science Researcher** focused on building **production-grade intelligent systems**. I specialize in bridging the gap between raw research and scalable applications, particularly in the fields of **RAG (Retrieval-Augmented Generation)** and **Computer Vision**.
-
-- 🎓 Pursuing **M.Tech in AI & Data Science** at DAVV Indore.
-- 🤖 Specialized in **Retrieval-Augmented Generation (RAG)** using LangChain and Vector Databases.
-- 🇮🇳 Contributor to **Indic AI** through certification and research with **AI4Bharat**.
-- 🛡️ Architected **EduGuard**, a multi-model system for academic integrity and security.
-- 📦 Experienced in deploying ML models using **FastAPI, Docker, and Linux VPS**.
-- 🧭 Deeply focused on **LLM Fine-tuning** and **Prompt Engineering** for specialized domains.
-
----
-
-### 🏆 Achievements & Certifications
-
-<p align="center">
-  <strong>DeepLearning.AI Specialization</strong> (by Andrew Ng) 
-  <img src="https://img.shields.io/badge/Specialization-DeepLearning.AI-blue" alt="DL Specialization">
-</p>
-<p align="center">
-  <strong>AI4Bharat Certified</strong> - Indic Language AI Research & Data Contribution 
-  <img src="https://img.shields.io/badge/Certified-AI4Bharat-orange" alt="AI4Bharat">
+  <a href="https://www.linkedin.com/in/adityamandloi99">LinkedIn</a> ·
+  <a href="https://github.com/beingaditya18">GitHub</a> ·
+  <a href="mailto:adityamandloi10@gmail.com">Email</a>
 </p>
 
 ---
 
-### 🚀 Featured AI Projects
+## About Me
 
-| Project | Description | Stack | Status |
-|----------|--------------|-------|------|
-| [**EduGuard**](https://github.com/beingaditya18/eduguard) | AI-powered security & integrity system using Computer Vision and anomaly detection. | Python • TensorFlow • OpenCV • FastAPI | [View Repo](https://github.com/beingaditya18/eduguard) |
-| [**Indic-QA RAG**](#) | A RAG system designed for Indic languages leveraging AI4Bharat datasets and Vector DBs. | LangChain • FAISS • OpenAI • HuggingFace | *Research* |
-| **Neural Vision Hub** | Custom trained CNN models for real-time object classification and tracking. | PyTorch • TorchVision • Docker • Linux | *Private* |
+I am an **AI & Data Science researcher and engineer** focused on building **scalable, production-ready intelligent systems**.  
+My work lies at the intersection of **Large Language Models, Retrieval-Augmented Generation (RAG), and Computer Vision**, with a strong focus on **Indic and low-resource languages**.
 
-> *Deeply involved in research projects involving Large Language Models and their application in local Indian contexts.*
+I enjoy translating **research ideas into real-world systems**, combining strong theoretical foundations with solid engineering practices.
 
----
-
-### ⚙️ Skills & Tools
-
-**AI & Machine Learning:** LLMs • RAG • LangChain • Vector DBs (FAISS/Pinecone) • Transformers  
-**Deep Learning:** PyTorch • TensorFlow • Keras • CNNs • RNNs • Computer Vision  
-**Data Science:** Scikit-learn • Pandas • NumPy • Data Visualization • Statistical Analysis  
-**Backend & DevOps:** FastAPI • Flask • SQL • Docker • Linux (Ubuntu) • GitHub Actions  
-**Languages:** Python • SQL • C++  
+ **M.Tech in AI & Data Science**, DAVV Indore  
+- Specialized in **RAG pipelines** using LangChain & Vector Databases  
+- 🇮🇳 **AI4Bharat Certified** — Indic AI research & data contribution  
+-  Designed **EduGuard**, a multi-model academic integrity system  
+-  Experience deploying models with **FastAPI, Docker, Linux VPS**  
+-  Actively exploring **LLM fine-tuning & prompt optimization**
 
 ---
 
-### 📈 GitHub Highlights
+## Achievements & Certifications
+
+- **Deep Learning Specialization** — DeepLearning.AI (Andrew Ng)  
+- **AI4Bharat Certification** — Indic Language AI & Research Contribution  
+- Active contributor to open-source ML & AI projects on GitHub  
+
+---
+
+## Featured Projects
+
+| Project | Description | Tech Stack | Status |
+|-------|-------------|-----------|--------|
+| **EduGuard** | AI-powered academic security system using CV & anomaly detection | Python · TensorFlow · OpenCV · FastAPI | Production |
+| **Indic-QA RAG** | Retrieval-Augmented QA system for low-resource Indic languages | LangChain · FAISS · HuggingFace · LLMs | Active Research |
+| **Neural Vision Hub** | Real-time object detection & tracking with custom CNNs | PyTorch · TorchVision · Docker | Experimental |
+
+> I am deeply interested in applying **LLMs and Vision models** to Indian educational and societal challenges.
+
+---
+
+## Technical Skills
+
+**LLMs & NLP**  
+RAG · LangChain · Transformers · FAISS · Pinecone · HuggingFace · Prompt Engineering  
+
+**Deep Learning & Computer Vision**  
+PyTorch · TensorFlow · CNNs · OpenCV · Object Detection  
+
+**Backend & MLOps**  
+FastAPI · Flask · SQL · Docker · Linux · GitHub Actions  
+
+**Programming Languages**  
+Python · SQL · C++
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beingaditya18&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=beingaditya18&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=beingaditya18&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingaditya18&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
 
-### 🏗️ What I’m Working On
+## Current Focus
 
-- 🧠 **Indic-RAG Pipeline** — Optimizing retrieval for low-resource Indian languages.
-- 🛠️ **MLOps Workflows** — Implementing automated training pipelines with GitHub Actions.
-- 🐧 **Edge AI** — Deploying lightweight vision models on Linux-based edge devices.
-- 📚 **M.Tech Thesis** — Exploring the intersection of [Insert your Thesis Topic].
-
----
-
-### 🎯 Goals for 2025
-
-- Publish a high-impact research paper on **Indic NLP** or **RAG Optimization**.
-- Contribute to core open-source repositories like **LangChain** or **HuggingFace**.
-- Complete a series of end-to-end **LLM production** case studies.
+- 🧠 **Indic-RAG Pipelines** — improving retrieval for low-resource languages  
+- 🛠️ **MLOps Workflows** — CI/CD automation for ML training & deployment  
+- 🐧 **Edge AI** — deploying lightweight vision models on Linux devices  
+- 📚 **M.Tech Thesis** — *Retrieval-Augmented Generation for Low-Resource Indic Languages*
 
 ---
 
-### 🚀 Goals for 2026
+## Research & Career Goals
 
-- 🧠 Master **Agentic Workflows** — building autonomous AI agents for complex tasks.
-- ☁️ Scale AI deployments using **Kubernetes** and cloud-native GPU orchestration.
-- 🤝 Lead a research team or collaborate with global AI labs on **Ethical AI**.
-- 🧩 Launch an open-source tool for **AI Developers** in the Indian ecosystem.
+### 2025
+- Publish research on **Indic NLP / RAG optimization**
+- Contribute to **LangChain** or **HuggingFace**
+- Build end-to-end **LLM production case studies**
+
+### 2026
+- Design **agentic AI systems** for complex workflows  
+- Scale AI systems using **Kubernetes & GPU orchestration**  
+- Collaborate with global AI labs on **ethical & inclusive AI**  
+- Launch an open-source **AI tool for Indian developers**
 
 ---
 
-### 📫 Let’s Connect
+## Let's Connect
 
-📧 **adityamandloi10@gmail.com** 💼 [**LinkedIn**](https://www.linkedin.com/in/adityamandloi99)  
-🐙 [**GitHub**](https://github.com/beingaditya18)
+ **Email:** adityamandloi10@gmail.com  
+ **LinkedIn:** https://www.linkedin.com/in/adityamandloi99  
+ **GitHub:** https://github.com/beingaditya18  
 
 ---
 
 <p align="center">
-  <i>“I build systems that perceive, reason, and solve.”</i>
+  <i>"I build intelligent systems that perceive, reason, and solve real-world problems."</i>
 </p>
