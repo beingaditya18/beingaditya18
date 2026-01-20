@@ -5,7 +5,7 @@
 <h1 align="center">Aditya Mandloi</h1>
 
 <h3 align="center">
-M.Tech AI & Data Science · LLM Engineer · RAG Systems · Computer Vision · Indic AI
+B.Tech AI & Data Science · LLM Engineer · RAG Systems · Computer Vision · Indic AI
 </h3>
 
 <p align="center">
