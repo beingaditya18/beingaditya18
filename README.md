@@ -28,7 +28,7 @@ My core focus lies in:
 
 I work at the intersection of **research depth and engineering rigor** — translating theoretical ideas into **deployable, real-world systems** with strong emphasis on **observability, robustness, and ethical AI**.
 
- **M.Tech in AI & Data Science** — DAVV, Indore  
+ **B.Tech in AI & Data Science** — DAVV, Indore  
 
 ---
 
